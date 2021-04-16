@@ -8,4 +8,125 @@ nav{
 main{
 height: 800px;
 outline: 1px solid;
+display: flex;
+flex-wrap: wrap;
+align-content: center;
+
+background-color:rgb(253, 253, 128)
+}
+
+.rule{
+    margin: 0px;
+}
+
+
+.box{
+    background-color: rgb(129, 129, 255);
+    width: 150px;
+    height: 150px;
+    outline: 1px solid;
+}
+
+#boxa{
+    background-color: rgb(129, 129, 255);
+    width: 150px;
+    height: 150px;
+    outline: 1px solid;
+}
+#boxb{
+    background-color: rgb(129, 129, 255);
+    width: 150px;
+    height: 150px;
+    outline: 1px solid;
+}
+#boxc{
+    background-color: rgb(129, 129, 255);
+    width: 150px;
+    height: 150px;
+    outline: 1px solid;
+}
+#boxd{
+    background-color: rgb(129, 129, 255);
+    width: 150px;
+    height: 150px;
+    outline: 1px solid;
+}
+#boxe{
+    background-color: rgb(129, 129, 255);
+    width: 150px;
+    height: 150px;
+    outline: 1px solid;
+    
+}
+#boxf{
+    background-color: rgb(129, 129, 255);
+    width: 150px;
+    height: 150px;
+    outline: 1px solid;
+}
+#boxg{
+    background-color: rgb(129, 129, 255);
+    width: 150px;
+    height: 150px;
+    outline: 1px solid;
+}
+#boxh{
+    background-color: rgb(129, 129, 255);
+    width: 150px;
+    height: 150px;
+    outline: 1px solid;
+}
+#boxi{
+    background-color: rgb(129, 129, 255);
+    width: 150px;
+    height: 150px;
+    outline: 1px solid;
+    
+}
+#boxj{
+    background-color: rgb(129, 129, 255);
+    width: 150px;
+    height: 150px;
+    outline: 1px solid;
+}
+#boxk{
+    background-color: rgb(129, 129, 255);
+    width: 150px;
+    height: 150px;
+    outline: 1px solid;
+}
+#boxl{
+    background-color: rgb(129, 129, 255);
+    width: 150px;
+    height: 150px;
+    outline: 1px solid;
+}
+#boxm{
+    background-color: rgb(129, 129, 255);
+    width: 150px;
+    height: 150px;
+    outline: 1px solid;
+    
+}
+#boxn{
+    background-color: rgb(129, 129, 255);
+    width: 150px;
+    height: 150px;
+    outline: 1px solid;
+}
+#boxo{
+    background-color: rgb(129, 129, 255);
+    width: 150px;
+    height: 150px;
+    outline: 1px solid;
+}
+#boxp{
+    background-color: rgb(129, 129, 255);
+    width: 150px;
+    height: 150px;
+    outline: 1px solid;
+}
+
+.font-color {
+    color: pink;
 }
