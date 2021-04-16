@@ -1,11 +1,34 @@
-header{
-    outline: 1px solid;
+body {
+    margin: 0;
+}
+
+.hidden {
+    display: none;
+}
+
+.message {
     text-align: center;
 }
-nav{
-    outline: 1px solid;
+
+.header_title {
+    text-align: center;
 }
-main{
-height: 800px;
-outline: 1px solid;
+
+.box {
+    border: 1px solid #000;
+}
+
+.box_wrapper {
+    display: grid;
+    gap: 4px;
+    /* grid-template-columns: 1fr 1fr 1fr 1fr; */
+    grid-template-columns: 1fr 1fr 1fr;
+    /* grid-template-rows: 1fr 1fr 1fr 1fr; */
+    grid-template-rows: 1fr 1fr 1fr;
+    height: 400px;
+    width: 100%;
+}
+
+.box-off {
+    background-color: gray;
 }
